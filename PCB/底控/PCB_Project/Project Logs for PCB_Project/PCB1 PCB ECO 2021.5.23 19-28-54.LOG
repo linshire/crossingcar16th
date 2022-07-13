@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=GND Pin=V1-1
+Removed Pin From Net: NetName=NetC2_2 Pin=V1-2
+Removed Pin From Net: NetName=NetC2_2 Pin=V1-2
+Removed Pin From Net: NetName=5V Pin=V1-3
+Removed Member From Class: ClassName=Sheet1 Member=V1
+Added Component: Designator=V?(PCBComponent_1)
+Add component (AddParameter): Name = "BOM名称"; Value = "稳压芯片"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"

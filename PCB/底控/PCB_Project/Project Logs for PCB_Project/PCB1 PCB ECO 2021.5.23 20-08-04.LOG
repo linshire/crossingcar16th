@@ -1,0 +1,24 @@
+Removed Pin From Net: NetName=CORE_3.3V Pin=*1-2
+Removed Pin From Net: NetName=CORE_3.3V Pin=*1-2
+Removed Pin From Net: NetName=UART_3.3V Pin=*2-2
+Removed Pin From Net: NetName=UART_3.3V Pin=*2-2
+Added Component: Designator=R?(R0805)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=R?(R0805)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=CORE_3.3V Pin=R?-1
+Added Pin To Net: NetName=UART_3.3V Pin=R?-1
+Added Pin To Net: NetName=Net*1_2 Pin=*1-2
+Added Pin To Net: NetName=Net*1_2 Pin=*1-2
+Added Pin To Net: NetName=Net*1_2 Pin=R?-2
+Added Net: Name=Net*1_2
+Added Pin To Net: NetName=Net*2_2 Pin=*2-2
+Added Pin To Net: NetName=Net*2_2 Pin=*2-2
+Added Pin To Net: NetName=Net*2_2 Pin=R?-2
+Added Net: Name=Net*2_2
+Added Member To Class: ClassName=Sheet1 Member=Component R? 1K
+Added Member To Class: ClassName=Sheet1 Member=Component R? 1K

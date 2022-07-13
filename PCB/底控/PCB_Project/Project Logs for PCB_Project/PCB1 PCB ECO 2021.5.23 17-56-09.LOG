@@ -1,0 +1,54 @@
+Change Component Footprint: Designator=1 Old Footprint=PCBComponent_1 New Footprint=TC264_CoreBoard
+Added Pin To Net: NetName=GND Pin=1-1
+Added Pin To Net: NetName=CORE_3.3V Pin=1-2
+Added Pin To Net: NetName=GND Pin=1-3
+Added Pin To Net: NetName=CORE_3.3V Pin=1-4
+Added Pin To Net: NetName=AD16 Pin=1-5
+Added Pin To Net: NetName=AD15 Pin=1-6
+Added Pin To Net: NetName=AD14 Pin=1-7
+Added Pin To Net: NetName=AD13 Pin=1-8
+Added Pin To Net: NetName=AD12 Pin=1-9
+Added Pin To Net: NetName=AD11 Pin=1-10
+Added Pin To Net: NetName=AD10 Pin=1-11
+Added Pin To Net: NetName=AD9 Pin=1-12
+Added Pin To Net: NetName=Vol ADC Pin=1-13
+Added Pin To Net: NetName=AD8 Pin=1-14
+Added Pin To Net: NetName=AD7 Pin=1-15
+Added Pin To Net: NetName=AD6 Pin=1-16
+Added Pin To Net: NetName=AD5 Pin=1-17
+Added Pin To Net: NetName=AD4 Pin=1-18
+Added Pin To Net: NetName=AD3 Pin=1-19
+Added Pin To Net: NetName=AD2 Pin=1-20
+Added Pin To Net: NetName=AD1 Pin=1-21
+Added Pin To Net: NetName=BEEP Pin=1-28
+Added Pin To Net: NetName=switch1 Pin=1-34
+Added Pin To Net: NetName=switch4 Pin=1-35
+Added Pin To Net: NetName=switch2 Pin=1-36
+Added Pin To Net: NetName=switch3 Pin=1-37
+Added Pin To Net: NetName=PWM1 IN Pin=1-38
+Added Pin To Net: NetName=PWM2 IN Pin=1-39
+Added Pin To Net: NetName=PWMS IN Pin=1-40
+Added Pin To Net: NetName=MPU SCL Pin=1-54
+Added Pin To Net: NetName=MPU SDA Pin=1-57
+Added Pin To Net: NetName=TFT DC Pin=1-58
+Added Pin To Net: NetName=TFT RST Pin=1-59
+Added Pin To Net: NetName=TFT CS Pin=1-60
+Added Pin To Net: NetName=TFT SCL Pin=1-61
+Added Pin To Net: NetName=TFT BLK Pin=1-62
+Added Pin To Net: NetName=TFT SDA Pin=1-63
+Added Pin To Net: NetName=TXD2 Pin=1-67
+Added Pin To Net: NetName=RXD2 Pin=1-68
+Added Pin To Net: NetName=QDB2 Pin=1-85
+Added Pin To Net: NetName=QDA1 Pin=1-87
+Added Pin To Net: NetName=TXD1 Pin=1-88
+Added Pin To Net: NetName=RXD1 Pin=1-89
+Added Pin To Net: NetName=IO8 Pin=1-99
+Added Pin To Net: NetName=IO7 Pin=1-100
+Added Pin To Net: NetName=IO6 Pin=1-101
+Added Pin To Net: NetName=IO5 Pin=1-102
+Added Pin To Net: NetName=IO4 Pin=1-103
+Added Pin To Net: NetName=IO3 Pin=1-104
+Added Pin To Net: NetName=IO2 Pin=1-105
+Added Pin To Net: NetName=IO1 Pin=1-106
+Added Pin To Net: NetName=switch6 Pin=1-114
+Added Pin To Net: NetName=switch5 Pin=1-116

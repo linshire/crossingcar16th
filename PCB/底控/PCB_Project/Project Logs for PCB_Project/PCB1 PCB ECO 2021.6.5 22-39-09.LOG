@@ -1,0 +1,68 @@
+Removed Pin From Net: NetName=RXD1 Pin=-1
+Removed Pin From Net: NetName=TXD1 Pin=-8
+Removed Pin From Net: NetName=BEEP Pin=R7-1
+Removed Pin From Net: NetName=NetQ1_1 Pin=R7-2
+Removed Pin From Net: NetName=RXD2 Pin=UART2-1
+Removed Pin From Net: NetName=TXD2 Pin=UART2-8
+Change Component Designator: OldDesignator= NewDesignator=2
+Change Component Designator: OldDesignator= NewDesignator=JP2
+Change Component Designator: OldDesignator= NewDesignator=JP3
+Change Component Designator: OldDesignator= NewDesignator=LED3
+Change Component Designator: OldDesignator= NewDesignator=LED4
+Change Component Designator: OldDesignator= NewDesignator=LED5
+Change Component Designator: OldDesignator= NewDesignator=LED6
+Change Component Designator: OldDesignator= NewDesignator=LED7
+Change Component Designator: OldDesignator= NewDesignator=LED8
+Change Component Designator: OldDesignator= NewDesignator=t2
+Change Component Designator: OldDesignator= NewDesignator=t3
+Change Component Designator: OldDesignator= NewDesignator=TPS3
+Change Component Designator: OldDesignator= NewDesignator=运放1
+Change Component Designator: OldDesignator= NewDesignator=运放2
+Change Component Designator: OldDesignator= NewDesignator=运放3
+Change Component Designator: OldDesignator= NewDesignator=运放4
+Change Component Designator: OldDesignator=3V3 NewDesignator=*1
+Change Component Designator: OldDesignator=3V3 NewDesignator=*2
+Change Component Designator: OldDesignator=CORE NewDesignator=LED1
+Change Component Designator: OldDesignator=MPU6050 NewDesignator=P1
+Change Component Designator: OldDesignator=PWM1 NewDesignator=P4
+Change Component Designator: OldDesignator=SEN NewDesignator=LED9
+Change Component Designator: OldDesignator=TFT NewDesignator=P2
+Change Component Designator: OldDesignator=TPS7333 NewDesignator=TPS1
+Change Component Designator: OldDesignator=TPS7350 NewDesignator=TPS2
+Change Component Designator: OldDesignator=UART2 NewDesignator=JP1
+Change Component Designator: OldDesignator=UART NewDesignator=LED2
+Change Component Designator: OldDesignator=VCC NewDesignator=JP4
+Added Pin To Net: NetName=TXD2 Pin=JP1-1
+Added Pin To Net: NetName=RXD2 Pin=JP1-8
+Added Pin To Net: NetName=TXD1 Pin=JP2-1
+Added Pin To Net: NetName=RXD1 Pin=JP2-8
+Added Pin To Net: NetName=NetQ1_1 Pin=R7-1
+Added Pin To Net: NetName=BEEP Pin=R7-2
+Added Member To Class: ClassName=Sheet1 Member=Component *1 AMS1117
+Added Member To Class: ClassName=Sheet1 Member=Component *2 AMS1117
+Added Member To Class: ClassName=Sheet1 Member=Component 2 编码器
+Added Member To Class: ClassName=Sheet1 Member=Component JP1 Header 4X2
+Added Member To Class: ClassName=Sheet1 Member=Component JP2 Header 4X2
+Added Member To Class: ClassName=Sheet1 Member=Component JP3 HDR-1X2
+Added Member To Class: ClassName=Sheet1 Member=Component JP4 Header 6X2
+Added Member To Class: ClassName=Sheet1 Member=Component LED1 红色
+Added Member To Class: ClassName=Sheet1 Member=Component LED2 红色
+Added Member To Class: ClassName=Sheet1 Member=Component LED3 LED4
+Added Member To Class: ClassName=Sheet1 Member=Component LED4
+Added Member To Class: ClassName=Sheet1 Member=Component LED5 LED4
+Added Member To Class: ClassName=Sheet1 Member=Component LED6 LED4
+Added Member To Class: ClassName=Sheet1 Member=Component LED7 LED4
+Added Member To Class: ClassName=Sheet1 Member=Component LED8 LED4
+Added Member To Class: ClassName=Sheet1 Member=Component LED9 红色
+Added Member To Class: ClassName=Sheet1 Member=Component P1 MPU 6050
+Added Member To Class: ClassName=Sheet1 Member=Component P2 TFT
+Added Member To Class: ClassName=Sheet1 Member=Component P4 Header 3
+Added Member To Class: ClassName=Sheet1 Member=Component t2 M3
+Added Member To Class: ClassName=Sheet1 Member=Component t3 M3
+Added Member To Class: ClassName=Sheet1 Member=Component TPS1 5V
+Added Member To Class: ClassName=Sheet1 Member=Component TPS2 5V
+Added Member To Class: ClassName=Sheet1 Member=Component TPS3 5V
+Added Member To Class: ClassName=Sheet1 Member=Component 运放1 HDR-1X6
+Added Member To Class: ClassName=Sheet1 Member=Component 运放2 HDR-1X6
+Added Member To Class: ClassName=Sheet1 Member=Component 运放3 HDR-1X6
+Added Member To Class: ClassName=Sheet1 Member=Component 运放4 HDR-1X6

@@ -1,0 +1,15 @@
+Change Component Footprint: Designator=C7 Old Footprint=CD C(6032) New Footprint=C3216
+Change Component Footprint: Designator=C8 Old Footprint=CD C(6032) New Footprint=C3216
+Change Component Footprint: Designator=C9 Old Footprint=CD C(6032) New Footprint=C3216
+Change Component Footprint: Designator=C10 Old Footprint=CD C(6032) New Footprint=C3216
+Change Component Footprint: Designator=C11 Old Footprint=CD C(6032) New Footprint=C3216
+Change Component Footprint: Designator=C12 Old Footprint=CD C(6032) New Footprint=C3216
+Added Member To Class: ClassName=Sheet1 Member=Component LED3 LED4
+Added Member To Class: ClassName=Sheet1 Member=Component LED5 LED4
+Added Member To Class: ClassName=Sheet1 Member=Component LED8 LED4
+Added Member To Class: ClassName=Sheet1 Member=Component R5 0
+Added Member To Class: ClassName=Sheet1 Member=Component R6 0
+Added Member To Class: ClassName=Sheet1 Member=Component R9 10K
+Added Member To Class: ClassName=Sheet1 Member=Component R12 10K
+Added Member To Class: ClassName=Sheet1 Member=Component R14 10K
+Added Member To Class: ClassName=Sheet1 Member=Component R16 10K

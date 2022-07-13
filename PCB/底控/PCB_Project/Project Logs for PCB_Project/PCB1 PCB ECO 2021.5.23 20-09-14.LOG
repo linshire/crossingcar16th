@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=CORE_3.3V Pin=R?-1
+Removed Pin From Net: NetName=UART_3.3V Pin=R?-1
+Removed Member From Class: ClassName=Sheet1 Member=R?
+Added Pin To Net: NetName=CORE_3.3V Pin=*1-2
+Added Pin To Net: NetName=CORE_3.3V Pin=*1-2
+Added Pin To Net: NetName=UART_3.3V Pin=*2-2
+Added Pin To Net: NetName=UART_3.3V Pin=*2-2

@@ -1,0 +1,30 @@
+Removed Pin From Net: NetName=GND Pin=-1
+Removed Pin From Net: NetName=GND Pin=-1
+Removed Pin From Net: NetName=GND Pin=-1
+Removed Pin From Net: NetName=5V Pin=-2
+Removed Pin From Net: NetName=UART_3.3V Pin=-2
+Removed Pin From Net: NetName=VCC Pin=-2
+Removed Pin From Net: NetName=GND Pin=-3
+Removed Pin From Net: NetName=GND Pin=-3
+Removed Pin From Net: NetName=GND Pin=-3
+Removed Pin From Net: NetName=5V Pin=-4
+Removed Pin From Net: NetName=UART_3.3V Pin=-4
+Removed Pin From Net: NetName=VCC Pin=-4
+Removed Member From Class: ClassName=Sheet1 Member=
+Added Component: Designator=JP4(IDC2.54-LI-2x6P)
+Add component (AddParameter): Name = "BOM名称"; Value = "6*2P接插件"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=JP4-1
+Added Pin To Net: NetName=UART_3.3V Pin=JP4-2
+Added Pin To Net: NetName=GND Pin=JP4-3
+Added Pin To Net: NetName=UART_3.3V Pin=JP4-4
+Added Pin To Net: NetName=GND Pin=JP4-5
+Added Pin To Net: NetName=5V Pin=JP4-6
+Added Pin To Net: NetName=GND Pin=JP4-7
+Added Pin To Net: NetName=5V Pin=JP4-8
+Added Pin To Net: NetName=GND Pin=JP4-9
+Added Pin To Net: NetName=VCC Pin=JP4-10
+Added Pin To Net: NetName=GND Pin=JP4-11
+Added Pin To Net: NetName=VCC Pin=JP4-12
+Added Member To Class: ClassName=Sheet1 Member=Component JP4 Header 6X2

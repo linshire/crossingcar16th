@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=CORE_3.3V Pin=F1-2
+Removed Member From Class: ClassName=Sheet1 Member=F1
+Added Pin To Net: NetName=CORE_3.3V Pin=*1-2
+Added Pin To Net: NetName=CORE_3.3V Pin=*1-2
+Added Pin To Net: NetName=CORE_3.3V Pin=C3-2
+Added Pin To Net: NetName=CORE_3.3V Pin=E2-1
+Added Member To Class: ClassName=Sheet1 Member=Component C3 104
+Added Member To Class: ClassName=Sheet1 Member=Component E1 10uF/6.3V
+Added Member To Class: ClassName=Sheet1 Member=Component R8 Res2
+Added Member To Class: ClassName=Sheet1 Member=Component R9 Res2

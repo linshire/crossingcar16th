@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=NetFUSE1_2 Pin=S1-1
+Removed Pin From Net: NetName=Vbat+ Pin=S1-2
+Removed Member From Class: ClassName=Sheet1 Member=S1
+Change Component Footprint: Designator=SW1 Old Footprint=MTS-10x New Footprint=CSW DIP-2P_G
+Added Component: Designator=S?(MTS-10x)
+Add component (AddParameter): Name = "BOM名称"; Value = "MTS10x系列3脚扭子开关"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Vbat+ Pin=S?-1
+Added Pin To Net: NetName=NetFUSE1_2 Pin=S?-2
+Added Pin To Net: NetName=switch4 Pin=SW1-4
